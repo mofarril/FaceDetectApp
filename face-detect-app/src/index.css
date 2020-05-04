@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(89deg, rgba(70, 214, 159, 0.959) 0%, rgba(9, 98, 199, 0.795)90%);
+            
+}
+
+button{
+  cursor: pointer;
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace; 
+  
+}
